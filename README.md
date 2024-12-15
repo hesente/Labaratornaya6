@@ -45,3 +45,15 @@
 
 - **ReminderListActivity**:
   - Список напоминаний с заголовками, датами, временем и кнопками для удаления.
+
+
+![image](https://github.com/user-attachments/assets/f52980bb-ff5c-4b1e-b915-ff5092736c50)
+
+![image](https://github.com/user-attachments/assets/f11bc287-976a-4937-9660-777d83de90ad)
+
+![image](https://github.com/user-attachments/assets/74ceb13d-8930-4990-8919-e3bbe7aaaa88)
+
+![image](https://github.com/user-attachments/assets/b7d64edf-782e-46f6-817c-a17a3023a523)
+
+
+
